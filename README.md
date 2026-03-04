@@ -16,6 +16,8 @@ A Spring Boot REST API for managing bank accounts and transactions.
 
 ---
 
+Screenshots of the project implementation, execution and outputs.
+
 ## 🛠 Tech Stack
 
 - Java 17
