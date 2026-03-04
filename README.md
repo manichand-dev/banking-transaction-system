@@ -65,6 +65,26 @@ GET `/api/accounts/{id}/transactions`
 
 ---
 
+## 📷 Project Screenshots
+
+### 🏗 Project Structure
+![Project Structure](screenshots/account.png)
+
+### ▶ Application Running
+![Application Running](screenshots/transactions-api-response.png)
+
+### 💰 Deposit API
+![Deposit API](screenshots/deposit-api-response.png)
+
+### 💸 Withdraw API
+![Withdraw API](screenshots/withdraw-api-response.png)
+
+### 🗄 Accounts Table (MySQL)
+![Accounts Table](screenshots/database-table1.png)
+
+### 🧾 Transaction Table (MySQL)
+![Transaction Table](screenshots/database-table2.png)
+
 ## 👨‍💻 Author
 
 Manichand  
