@@ -85,6 +85,8 @@ GET `/api/accounts/{id}/transactions`
 ### 🧾 Transaction Table (MySQL)
 ![Transaction Table](screenshots/database-table2.png)
 
+--
+
 ## 👨‍💻 Author
 
 Manichand  
